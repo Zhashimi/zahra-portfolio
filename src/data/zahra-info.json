@@ -1,0 +1,344 @@
+{
+  "profile": {
+    "fullName": "B. Zahra Hashimi",
+    "position": "Full-Stack Software Engineer",
+    "email": "zahrakumailhashimi@gmail.com",
+    "profilePicture": "zahra/zahra-pic.jpeg",
+    "resume": "zahra/zahra-resume.pdf",
+    "linkedin": "https://www.linkedin.com/in/zhashimi",
+    "github": "https://github.com/zhashimi"
+  },
+  "about": {
+    "bio": "Full Stack Developer with a Bachelor's degree in Computer Science and 7+ years of experience. Skilled in designing, coding, testing, and maintaining application programs and interfaces. Experienced in troubleshooting, modifying procedures, and evaluating user requests. Strong communication, problem-solving, and time management abilities. Knowledgeable about end-to-end systems development life cycles",
+    "experienceSummaryLines": ["7+ years", "Full-Stack Software Engineering"],
+    "educationSummaryLines": [
+      "B.Sc Degree in Computer Engineering and Informatics",
+      "Specializing in Computer Engineering ",
+      "\n"
+    ]
+  },
+  "experiences": [
+    {
+      "categoryName": "Frontend/Client-Side Development",
+      "skills": [
+        {
+          "name": "React",
+          "level": "Experienced"
+        },
+        {
+          "name": "TypeScript/JavaScript",
+          "level": "Experienced"
+        },
+        {
+          "name": "HTML • CSS",
+          "level": "Experienced"
+        },
+        {
+          "name": "Bootstrap",
+          "level": "Experienced"
+        },
+        {
+          "name": "Ant design • ChakraUI, Meterial UI",
+          "level": "Experienced"
+        },
+        {
+          "name": "Testing: Unit/Integration/End-to-End Testing",
+          "level": "Intermediate"
+        }
+      ]
+    },
+    {
+      "categoryName": "Backend Development",
+      "skills": [
+        {
+          "name": "Node.js (Express)",
+          "level": "Experienced"
+        },
+        {
+          "name": "Python (Django)",
+          "level": "Intermediate"
+        },
+        {
+          "name": "Java (Spring)",
+          "level": "Intermediate"
+        },
+        {
+          "name": "REST API Development",
+          "level": "Experienced"
+        },
+        {
+          "name": "Docker • Kupernetes",
+          "level": "Intermediate"
+        },
+        {
+          "name": "CI/CD (GitHub Actions • Jenkins • CircleCI)",
+          "level": "Experienced"
+        }
+      ]
+    },
+
+    {
+      "categoryName": "Database",
+      "skills": [
+        {
+          "name": "Microsoft SQL server",
+          "level": "Experienced"
+        },
+        {
+          "name": "PostgreSQL",
+          "level": "Experienced"
+        },
+        {
+          "name": "MangooDB",
+          "level": "Experienced"
+        },
+        {
+          "name": "SQlite",
+          "level": "Experienced"
+        },
+        {
+          "name": "Amazon Web Services (AWS)",
+          "level": "Intermediate"
+        }
+      ]
+    },
+    {
+      "categoryName": "Core Competencies",
+      "skills": [
+        {
+          "name": "Git/GitHub",
+          "level": "Experienced"
+        },
+        {
+          "name": "Jenkins",
+          "level": "Experienced"
+        },
+        {
+          "name": "Agile Methodology",
+          "level": "Experienced"
+        },
+        {
+          "name": "Jira",
+          "level": "Intermediate"
+        }
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Jawadi Finances",
+      "description": "A comprehensive financial management application tailored to our family's needs, showcasing full-stack development skills and proficiency in building scalable, user-centric applications. It enhances confidentiality, accountability, and addresses specific family financial management needs with features like collaborative transaction management, budget monitoring, and category-based spending limits.",
+      "shortDescription": "Streamline your family finances with this collaborative app. Track expenses, create budgets, and set spending limits for complete financial control.",
+      "features": [
+        {
+          "name": "Dashboard",
+          "description": "Provides a detailed overview of monthly expenses and budgets, with filters by store and payment type."
+        },
+        {
+          "name": "Calendar Integration",
+          "description": "Includes a robust calendar for visualizing daily expenditures."
+        },
+        {
+          "name": "Transactions Page",
+          "description": "Enables adding, updating, and deleting transactions, organized by months."
+        },
+        {
+          "name": "Budget Page",
+          "description": "Allows monthly budget planning based on current expenses and balances."
+        },
+        {
+          "name": "Metadata Management",
+          "description": "Customize categories, payment types, and transaction types as per specific needs."
+        },
+        {
+          "name": "User Authentication",
+          "description": "Ensures data security and privacy by requiring authentication to access transactional data."
+        }
+      ],
+      "repository": null,
+      "demo": "https://jawadi-finances-app.onrender.com",
+      "image": "zahra/projects/jawadi-finances-dashboard-1.jpg",
+      "technologies": [
+        "React",
+        "TypeScript",
+        "NodeJS",
+        "Express",
+        "vite",
+        "HTML",
+        "CSS",
+        "ChakraUI",
+        "PostgreSQL"
+      ],
+      "assets": [
+        {
+          "path": "zahra/projects/jawadi-finances-dashboard-1.jpg",
+          "alt": "Jawadi Finances Dashboard (1)"
+        },
+        {
+          "path": "zahra/projects/jawadi-finances-dashboard-2.jpg",
+          "alt": "Jawadi Finances Dashboard (2)"
+        },
+        {
+          "path": "zahra/projects/jawadi-finances-dashboard-3.jpg",
+          "alt": "Jawadi Finances Dashboard (3)"
+        },
+        {
+          "path": "zahra/projects/jawadi-finances-dashboard-4.jpg",
+          "alt": "Jawadi Finances Dashboard (4)"
+        },
+        {
+          "path": "zahra/projects/jawadi-finances-login.jpg",
+          "alt": "Jawadi Finances Login"
+        },
+        {
+          "path": "zahra/projects/jawadi-finances-signin.jpg",
+          "alt": "Jawadi Finances Sign up"
+        },
+        {
+          "path": "zahra/projects/jawadi-finances-transactions.jpg",
+          "alt": "Jawadi Finances Transactions"
+        },
+        {
+          "path": "zahra/projects/jawadi-finances-edit.jpg",
+          "alt": "Jawadi Finances Add/Edit"
+        },
+        {
+          "path": "zahra/projects/jawadi-finances-budget.jpg",
+          "alt": "Jawadi Finances Budgets"
+        },
+        {
+          "path": "zahra/projects/jawadi-finances-meta-data.jpg",
+          "alt": "Jawadi Finances Metadata"
+        },
+        {
+          "path": "zahra/projects/jawadi-finances-meta-data-edit.jpg",
+          "alt": "Jawadi Finances Metadata Edit"
+        }
+      ]
+    },
+    {
+      "title": "HDR Data Exploration",
+      "description": "The HDR Data Exploration System is a web-based application designed for exploring and analyzing Human Development Resources data. It offers powerful tools and interactive features for filtering, sorting, and exporting data on various development indicators like GDI, IHDI, GII, PHDI, and MPI. This platform supports informed decision-making, policy development, and research initiatives aimed at improving human well-being globally.",
+      "shortDescription": "The HDR Data Exploration System is a web application for exploring Human Development Resources data. It offers interactive tools for filtering, sorting, exporting, and analyzing various development indicators.",
+      "features": [
+        {
+          "name": "Data Coverage",
+          "description": "Comprehensive data coverage Across multiple development indices."
+        },
+        {
+          "name": "Data filtering",
+          "description": "Flexible Data Filtering Based on various parameters like Country/Region/Group, Year, indicators."
+        },
+        {
+          "name": "Dynamic data visualization",
+          "description": "Through interactive displays."
+        },
+        {
+          "name": "Sorting",
+          "description": "Efficient data sorting and organization by Year, value."
+        },
+        {
+          "name": "Data Export",
+          "description": "Versatile data export options For further analysis (JSON, Excel)."
+        }
+      ],
+      "repository": "github.com",
+      "demo": "https://jawadi-finances-app.onrender.com",
+      "image": "zahra/projects/hdr.jpg",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "Ant design",
+        "React",
+        "NodeJS",
+        "Express",
+        "Sqlite"
+      ],
+      "assets": [{ "path": "", "alt": "" }]
+    },
+    {
+      "title": "Game Hub",
+      "description": "Game Hub is a dynamic web application that empowers users to effortlessly explore and discover their next favorite game. By leveraging the GameAPI and React, the platform offers a curated collection of games, meticulously organized by genre and platform. Immerse yourself in a visually appealing interface featuring sleek card designs and a user-friendly sidebar for seamless navigation",
+      "shortDescription": "Game Hub is a React-powered game discovery platform that simplifies finding games by genre and platform.",
+      "features": [
+        {
+          "name": "Comprehensive Game Catalog",
+          "description": "Explore a vast library of games with detailed information and captivating visuals."
+        },
+        {
+          "name": "Advanced Filtering",
+          "description": "Easily refine your search by genre and platform to discover tailored game recommendations."
+        },
+        {
+          "name": "Intuitive Sorting",
+          "description": "Organize games by release date, title, or other criteria to suit your preferences."
+        },
+        {
+          "name": "Dynamic Interface",
+          "description": "Enjoy a visually striking design with customizable dark and light themes."
+        },
+        {
+          "name": "Loading Indicators",
+          "description": "Experience smooth performance with skeleton loading screens for essential elements."
+        },
+        {
+          "name": "API Integration",
+          "description": "Seamlessly integrates with the GameAPI to provide accurate and up-to-date game data."
+        }
+      ],
+      "repository": null,
+      "demo": null,
+      "image": "zahra/projects/game-hub.jpg",
+      "technologies": [
+        "React",
+        "HTML",
+        "CSS",
+        "TypeScript",
+        "RestAPI",
+        "ChakraUI"
+      ],
+      "assets": [
+        {
+          "path": "zahra/projects/game-hub.jpg",
+          "alt": "Game Hub dark mode"
+        },
+        {
+          "path": "zahra/projects/game-hub2.jpg",
+          "alt": "Game Hub light mode"
+        }
+      ]
+    },
+    {
+      "title": "Calculator",
+      "description": "Calculator is a user-friendly, component-based React application designed for efficient one and two-digit arithmetic operations. It offers a clean interface with reusable components, enabling seamless calculations for basic mathematical functions such as addition, subtraction, multiplication, and division.",
+      "shortDescription": "A simple yet effective React calculator for basic arithmetic operations.",
+      "features": [
+        {
+          "name": "Basic Arithmetic",
+          "description": "Performs addition, subtraction, multiplication, and division for one and two-digit numbers."
+        },
+        {
+          "name": "User-Friendly Interface",
+          "description": "Offers an intuitive design for easy interaction."
+        },
+        {
+          "name": "Component-Based Architecture",
+          "description": "Built with reusable components for modularity and maintainability."
+        },
+        {
+          "name": "Clear Display",
+          "description": "Provides clear and immediate calculation results."
+        },
+        {
+          "name": "Efficient Performance",
+          "description": "Delivers fast and accurate calculations."
+        }
+      ],
+      "repository": null,
+      "demo": null,
+      "image": "zahra/projects/calculator.jpg",
+      "technologies": ["React", "HTML", "CSS", "JavaScript"],
+      "assets": [{ "path": "", "alt": "" }]
+    }
+  ]
+}
