@@ -24,7 +24,7 @@ function Projects({ projects }: Props) {
                   {item.title}
                 </h1>
                 {item.image && (
-                  <div className="article-container">
+                  <div>
                     <img
                       src={`/assets/${item.image}`}
                       alt={item.title}

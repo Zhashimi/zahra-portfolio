@@ -153,10 +153,14 @@
         {
           "name": "User Authentication",
           "description": "Ensures data security and privacy by requiring authentication to access transactional data."
+        },
+        {
+          "name": "You can test the application by test user",
+          "description": "The email is: test@coderduo.com. password is Test@123"
         }
       ],
       "repository": null,
-      "demo": "https://jawadi-finances-app.onrender.com",
+      "demo": "https://personal-finances.coderduo.com/",
       "image": "zahra/projects/jawadi-finances-dashboard-1.jpg",
       "technologies": [
         "React",
@@ -306,7 +310,8 @@
           "path": "zahra/projects/game-hub2.jpg",
           "alt": "Game Hub light mode"
         }
-      ]
+      ],
+      "disclaimer": "This project was developed as a learning exercise based on a publicly available tutorial. While the foundational concepts and structure were derived from this external resource, the implementation, customization, and problem-solving applied during the project demonstrate my ability to comprehend, adapt, and extend technical knowledge."
     },
     {
       "title": "Calculator",
