@@ -1,5 +1,6 @@
 import { useEffect, useRef } from "react";
 import { ProjectType } from "../types";
+import SildeShow from "./SildeShow";
 interface ModalProps {
   show: boolean;
   onClose: () => void;
@@ -75,18 +76,7 @@ const ProjectInfoModal: React.FC<ModalProps> = ({ show, onClose, project }) => {
               <p>{project.disclaimer}</p>
             </>
           )}{" "}
-          {project.assets &&
-            project.assets.map((image, index) => (
-              <div className="article-container modal-container">
-                <img
-                  key={index}
-                  src={`/assets/${image.path}`}
-                  alt={image.alt}
-                  className="modal-image"
-                />
-                <p>{image.alt}</p>
-              </div>
-            ))}
+          {project.assets && <SildeShow assets={project.assets} />}
           <div className="btn-container">
             {project.repository && (
               <button

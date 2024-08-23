@@ -580,6 +580,23 @@ ul {
   color: rgb(85, 85, 85);
 }
 
+/* slide show  */
+.each-slide-effect {
+  width: 100%;
+  align-items: center;
+  padding: 30px 30px 7px 30px;
+}
+.each-slide-effect > image {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-size: cover;
+  height: 350px;
+}
+
+.each-slide-effect p {
+  text-align: center;
+}
 /* media queries */
 @media screen and (max-width: 1400px) {
   #profile {

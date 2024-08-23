@@ -9,7 +9,7 @@
     "github": "https://github.com/zhashimi"
   },
   "about": {
-    "bio": "Full Stack Developer with a Bachelor's degree in Computer Science and 7+ years of experience. Skilled in designing, coding, testing, and maintaining application programs and interfaces. Experienced in troubleshooting, modifying procedures, and evaluating user requests. Strong communication, problem-solving, and time management abilities. Knowledgeable about end-to-end systems development life cycles",
+    "bio": "Full Stack Developer with a Bachelor's degree in Computer Science and 7+ years of experience. Skilled in designing, coding, testing, and maintaining application programs and interfaces. Experienced in troubleshooting, modifying procedures, and evaluating user requests. Strong communication, problem-solving, and time management abilities. Knowledgeable about end-to-end systems development life cycles.",
     "experienceSummaryLines": ["7+ years", "Full-Stack Software Engineering"],
     "educationSummaryLines": [
       "B.Sc Degree in Computer Engineering and Informatics",
@@ -34,7 +34,7 @@
           "level": "Experienced"
         },
         {
-          "name": "Bootstrap",
+          "name": "Bootstrap • TailwindCSS",
           "level": "Experienced"
         },
         {
@@ -63,16 +63,16 @@
           "level": "Intermediate"
         },
         {
+          "name": "Groovy",
+          "level": "Intermediate"
+        },
+        {
           "name": "REST API Development",
           "level": "Experienced"
         },
         {
-          "name": "Docker • Kupernetes",
+          "name": "Docker",
           "level": "Intermediate"
-        },
-        {
-          "name": "CI/CD (GitHub Actions • Jenkins • CircleCI)",
-          "level": "Experienced"
         }
       ]
     },
@@ -106,11 +106,15 @@
       "categoryName": "Core Competencies",
       "skills": [
         {
-          "name": "Git/GitHub",
+          "name": "CI/CD",
           "level": "Experienced"
         },
         {
-          "name": "Jenkins",
+          "name": "Git • GitHub",
+          "level": "Experienced"
+        },
+        {
+          "name": " Jenkins)",
           "level": "Experienced"
         },
         {
@@ -127,8 +131,8 @@
   "projects": [
     {
       "title": "Jawadi Finances",
-      "description": "A comprehensive financial management application tailored to our family's needs, showcasing full-stack development skills and proficiency in building scalable, user-centric applications. It enhances confidentiality, accountability, and addresses specific family financial management needs with features like collaborative transaction management, budget monitoring, and category-based spending limits.",
-      "shortDescription": "Streamline your family finances with this collaborative app. Track expenses, create budgets, and set spending limits for complete financial control.",
+      "description": "A full-stack financial management application tailored to our family's needs. Demonstrated proficiency in building scalable, user-centric applications with a focus on data privacy and security. By centralizing all monthly transactions, we gained complete visibility into our spending habits, enabling data-driven decisions and optimized budgeting. This resulted in a substantial 25% increase in monthly savings. Key features include collaborative budgeting, spending analysis, customizable spending limits, and a user-friendly dashboard with interactive graphs for visualizing monthly and yearly expenses.",
+      "shortDescription": "A family finance app to help us track our spending and create budgets. It's been a game-changer, boosting our savings by 25%!",
       "features": [
         {
           "name": "Dashboard",
@@ -246,8 +250,8 @@
           "description": "Versatile data export options For further analysis (JSON, Excel)."
         }
       ],
-      "repository": "github.com",
-      "demo": "https://jawadi-finances-app.onrender.com",
+      "repository": null,
+      "demo": "https://hdr-data.coderduo.com",
       "image": "zahra/projects/hdr.jpg",
       "technologies": [
         "HTML",
@@ -258,7 +262,9 @@
         "Express",
         "Sqlite"
       ],
-      "assets": [{ "path": "", "alt": "" }]
+      "assets": [
+        { "path": "zahra/projects/hdr.jpg", "alt": "Human Developement Report" }
+      ]
     },
     {
       "title": "Game Hub",
@@ -291,7 +297,7 @@
         }
       ],
       "repository": null,
-      "demo": null,
+      "demo": "https://gamehub.coderduo.com",
       "image": "zahra/projects/game-hub.jpg",
       "technologies": [
         "React",
@@ -343,7 +349,9 @@
       "demo": null,
       "image": "zahra/projects/calculator.jpg",
       "technologies": ["React", "HTML", "CSS", "JavaScript"],
-      "assets": [{ "path": "", "alt": "" }]
+      "assets": [
+        { "path": "zahra/projects/calculator.jpg", "alt": "Calculator" }
+      ]
     }
   ]
 }
