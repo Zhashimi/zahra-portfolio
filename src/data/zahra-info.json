@@ -320,6 +320,56 @@
       "disclaimer": "This project was developed as a learning exercise based on a publicly available tutorial. While the foundational concepts and structure were derived from this external resource, the implementation, customization, and problem-solving applied during the project demonstrate my ability to comprehend, adapt, and extend technical knowledge."
     },
     {
+      "title": "Eilia Tour Company Website",
+      "description": "This project involved designing and developing a website for Eilia Tour Company, a fictional travel agency specializing in unique and personalized travel experiences. The goal was to create a user-friendly platform that showcases their offerings and captures the essence of adventurous exploration.",
+      "shortDescription": "Eilia Tour Company website: A visually stunning and user-friendly platform designed to promote unique travel experiences.",
+      "features": [
+        {
+          "name": "Visually Captivating Design",
+          "description": "Eye-catching imagery showcasing breathtaking destinations alongside a clean and modern layout to promote a sense of wonder and exploration."
+        },
+        {
+          "name": "Interactive Features",
+          "description": "Interactive destination carousels and a user-friendly booking system for a seamless user journey."
+        },
+        {
+          "name": "Compelling Content",
+          "description": "Clear and informative descriptions of tours and destinations, along with testimonials and call-to-action buttons to encourage user engagement."
+        }
+      ],
+      "repository": null,
+      "demo": "https://eilia-tour-czatjvjid-zhashimis-projects.vercel.app",
+      "image": "zahra/projects/EiliaTour.jpg",
+      "technologies": ["HTML", "CSS", "Javascript", "React"],
+      "assets": [
+        { "path": "zahra/projects/EiliaTour.jpg", "alt": "Eilia Tour" },
+        {
+          "path": "zahra/projects/about.jpg",
+          "alt": "About US"
+        },
+        {
+          "path": "zahra/projects/services.jpg",
+          "alt": "Our Services"
+        },
+        {
+          "path": "zahra/projects/modal.jpg",
+          "alt": "More About Bamyan"
+        },
+        {
+          "path": "zahra/projects/features.jpg",
+          "alt": "Featured"
+        },
+        {
+          "path": "zahra/projects/contact.jpg",
+          "alt": "Contact US"
+        },
+        {
+          "path": "zahra/projects/footer.jpg",
+          "alt": "footer"
+        }
+      ]
+    },
+    {
       "title": "Calculator",
       "description": "Calculator is a user-friendly, component-based React application designed for efficient one and two-digit arithmetic operations. It offers a clean interface with reusable components, enabling seamless calculations for basic mathematical functions such as addition, subtraction, multiplication, and division.",
       "shortDescription": "A simple yet effective React calculator for basic arithmetic operations.",
