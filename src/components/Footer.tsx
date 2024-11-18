@@ -5,7 +5,7 @@ interface Props {
 function Footer({ fullName }: Props) {
   return (
     <>
-      <footer>
+      <footer id="footer">
         <nav>
           <div className="nav-links-container">
             <ul className="nav-links">

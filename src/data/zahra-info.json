@@ -263,7 +263,142 @@
         "Sqlite"
       ],
       "assets": [
-        { "path": "zahra/projects/hdr.jpg", "alt": "Human Developement Report" }
+        { "path": "zahra/projects/hdr.jpg", "alt": "Human Development Report" }
+      ]
+    },
+    {
+      "title": "Bukhara Restaurant",
+      "description": "A fully responsive and user-friendly web application for Bukhara Restaurant, providing a seamless online experience. The application features a visually appealing interface, intuitive navigation, and a range of functionalities to enhance customer engagement.",
+      "shortDescription": "A user-friendly and responsive web app for Bukhara Restaurant, offering a seamless online experience with menu browsing, location information, and online ordering.",
+      "features": [
+        {
+          "name": "Home Page",
+          "description": " An engaging homepage with a captivating hero image and a dynamic slider showcasing the restaurant's delectable offerings."
+        },
+        {
+          "name": "Menu Page",
+          "description": "Implemented a robust search functionality to help users quickly find their desired dish. Leveraged a REST API to dynamically populate the menu with detailed information and visually appealing cards."
+        },
+        {
+          "name": "Location Page",
+          "description": "Integrated Google Maps API to provide accurate location information and convenient route directions. Users can easily input their location and receive tailored directions."
+        },
+        {
+          "name": "Contact Page",
+          "description": "A user-friendly contact form to facilitate communication with the restaurant. Users can submit their queries, suggestions, or feedback directly through the form."
+        },
+        {
+          "name": "Shopping Cart Page",
+          "description": "A functional shopping cart system with features like adding, removing, and modifying items. Users can easily review their order and proceed to checkout"
+        }
+      ],
+      "repository": null,
+      "demo": "https://bukhara-restaurant.vercel.app/",
+      "image": "zahra/projects/Bukhara-restaurant/hero.jpg",
+      "assets": [
+        {
+          "path": "zahra/projects/Bukhara-restaurant/hero.jpg",
+          "alt": "Hero Section"
+        },
+        {
+          "path": "zahra/projects/Bukhara-restaurant/slider.jpg",
+          "alt": "Slider"
+        },
+        {
+          "path": "zahra/projects/Bukhara-restaurant/footer.jpg",
+          "alt": "Footer"
+        },
+        {
+          "path": "zahra/projects/Bukhara-restaurant/menu.jpg",
+          "alt": "Menu"
+        },
+        {
+          "path": "zahra/projects/Bukhara-restaurant/details.jpg",
+          "alt": "Menu Details"
+        },
+        {
+          "path": "zahra/projects/Bukhara-restaurant/location.jpg",
+          "alt": "Location"
+        },
+        {
+          "path": "zahra/projects/Bukhara-restaurant/location-2.jpg",
+          "alt": "Location"
+        },
+        {
+          "path": "zahra/projects/Bukhara-restaurant/shopping-cart.jpg",
+          "alt": "Shopping cart"
+        },
+        {
+          "path": "zahra/projects/Bukhara-restaurant/order.jpg",
+          "alt": "Order Page"
+        }
+      ],
+      "technologies": [
+        "Vite",
+        "JavaScript",
+        "React",
+        "React Query",
+        "React Router",
+        "Axios",
+        "REST API",
+        "React Google Maps API",
+        "Styled Components",
+        "Redux Toolkit",
+        "React Icons",
+        "React Toastify",
+        "UUID"
+      ],
+      "disclaimer": " this web application is a personal project and is not affiliated with the actual Bukhara Restaurant. It was developed to showcase my skills in web development and is not intended for commercial use."
+    },
+
+    {
+      "title": "Eilia Tour Company Website",
+      "description": "This project involved designing and developing a website for Eilia Tour Company, a fictional travel agency specializing in unique and personalized travel experiences. The goal was to create a user-friendly platform that showcases their offerings and captures the essence of adventurous exploration.",
+      "shortDescription": "Eilia Tour Company website: A visually stunning and user-friendly platform designed to promote unique travel experiences.",
+      "features": [
+        {
+          "name": "Visually Captivating Design",
+          "description": "Eye-catching imagery showcasing breathtaking destinations alongside a clean and modern layout to promote a sense of wonder and exploration."
+        },
+        {
+          "name": "Interactive Features",
+          "description": "Interactive destination carousels and a user-friendly booking system for a seamless user journey."
+        },
+        {
+          "name": "Compelling Content",
+          "description": "Clear and informative descriptions of tours and destinations, along with testimonials and call-to-action buttons to encourage user engagement."
+        }
+      ],
+      "repository": null,
+      "demo": "https://eilia-tour-czatjvjid-zhashimis-projects.vercel.app",
+      "image": "zahra/projects/EiliaTour.jpg",
+      "technologies": ["HTML", "CSS", "Javascript", "React"],
+      "assets": [
+        { "path": "zahra/projects/EiliaTour.jpg", "alt": "Eilia Tour" },
+        {
+          "path": "zahra/projects/about.jpg",
+          "alt": "About US"
+        },
+        {
+          "path": "zahra/projects/services.jpg",
+          "alt": "Our Services"
+        },
+        {
+          "path": "zahra/projects/modal.jpg",
+          "alt": "More About Bamyan"
+        },
+        {
+          "path": "zahra/projects/features.jpg",
+          "alt": "Featured"
+        },
+        {
+          "path": "zahra/projects/contact.jpg",
+          "alt": "Contact US"
+        },
+        {
+          "path": "zahra/projects/footer.jpg",
+          "alt": "footer"
+        }
       ]
     },
     {
@@ -318,56 +453,6 @@
         }
       ],
       "disclaimer": "This project was developed as a learning exercise based on a publicly available tutorial. While the foundational concepts and structure were derived from this external resource, the implementation, customization, and problem-solving applied during the project demonstrate my ability to comprehend, adapt, and extend technical knowledge."
-    },
-    {
-      "title": "Eilia Tour Company Website",
-      "description": "This project involved designing and developing a website for Eilia Tour Company, a fictional travel agency specializing in unique and personalized travel experiences. The goal was to create a user-friendly platform that showcases their offerings and captures the essence of adventurous exploration.",
-      "shortDescription": "Eilia Tour Company website: A visually stunning and user-friendly platform designed to promote unique travel experiences.",
-      "features": [
-        {
-          "name": "Visually Captivating Design",
-          "description": "Eye-catching imagery showcasing breathtaking destinations alongside a clean and modern layout to promote a sense of wonder and exploration."
-        },
-        {
-          "name": "Interactive Features",
-          "description": "Interactive destination carousels and a user-friendly booking system for a seamless user journey."
-        },
-        {
-          "name": "Compelling Content",
-          "description": "Clear and informative descriptions of tours and destinations, along with testimonials and call-to-action buttons to encourage user engagement."
-        }
-      ],
-      "repository": null,
-      "demo": "https://eilia-tour-czatjvjid-zhashimis-projects.vercel.app",
-      "image": "zahra/projects/EiliaTour.jpg",
-      "technologies": ["HTML", "CSS", "Javascript", "React"],
-      "assets": [
-        { "path": "zahra/projects/EiliaTour.jpg", "alt": "Eilia Tour" },
-        {
-          "path": "zahra/projects/about.jpg",
-          "alt": "About US"
-        },
-        {
-          "path": "zahra/projects/services.jpg",
-          "alt": "Our Services"
-        },
-        {
-          "path": "zahra/projects/modal.jpg",
-          "alt": "More About Bamyan"
-        },
-        {
-          "path": "zahra/projects/features.jpg",
-          "alt": "Featured"
-        },
-        {
-          "path": "zahra/projects/contact.jpg",
-          "alt": "Contact US"
-        },
-        {
-          "path": "zahra/projects/footer.jpg",
-          "alt": "footer"
-        }
-      ]
     },
     {
       "title": "Calculator",
