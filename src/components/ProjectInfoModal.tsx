@@ -1,6 +1,7 @@
 import { useEffect, useRef } from "react";
 import { ProjectType } from "../types";
-import SildeShow from "./SildeShow";
+
+import Slider from "./Slider";
 interface ModalProps {
   show: boolean;
   onClose: () => void;
@@ -76,7 +77,7 @@ const ProjectInfoModal: React.FC<ModalProps> = ({ show, onClose, project }) => {
               <p>{project.disclaimer}</p>
             </>
           )}{" "}
-          {project.assets && <SildeShow assets={project.assets} />}
+          {project.assets && <Slider assets={project.assets} />}
           <div className="btn-container">
             {project.repository && (
               <button

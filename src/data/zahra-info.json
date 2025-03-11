@@ -22,6 +22,10 @@
       "categoryName": "Frontend/Client-Side Development",
       "skills": [
         {
+          "name": "HTML • CSS",
+          "level": "Experienced"
+        },
+        {
           "name": "React",
           "level": "Experienced"
         },
@@ -30,8 +34,12 @@
           "level": "Experienced"
         },
         {
-          "name": "HTML • CSS",
+          "name": "Next.js",
           "level": "Experienced"
+        },
+        {
+          "name": "Redux",
+          "level": "Intermediate"
         },
         {
           "name": "Bootstrap • TailwindCSS",

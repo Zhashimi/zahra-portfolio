@@ -14,12 +14,12 @@ function Projects({ projects }: Props) {
   return (
     <>
       <section id="projects">
-        <p className="section__text__p1">Browse My Recent</p>
+        ء<p className="section__text__p1">Browse My Recent</p>
         <h1 className="title">Projects</h1>
-        <div className="about-containers project-container">
-          {projects.map((item: ProjectType, index: number) => (
-            <>
-              <div className={`details-container color-container`} key={index}>
+        <div className="experience-details-container">
+          <div className="project-containers">
+            {projects.map((item: ProjectType, index: number) => (
+              <div className="details-container color-container" key={index}>
                 <h1 className="experience-sub-title project-title">
                   {item.title}
                 </h1>
@@ -53,10 +53,9 @@ function Projects({ projects }: Props) {
                   </button>
                 </div>
               </div>
-            </>
-          ))}
+            ))}
+          </div>
         </div>
-
         <img
           src={arrowIcon}
           alt="Arrow icon"
