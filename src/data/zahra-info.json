@@ -138,6 +138,135 @@
   ],
   "projects": [
     {
+      "title":"Personal finances PWA",
+      "description":"Managing personal finances should be simple, transparent, and cost-effective. Personal Finances PWA solves these challenges with a fully offline-capable, cost-efficient, and AI-powered solution that gives users complete control over their financial data. Built with PWA technology, it ensures seamless offline functionality by storing data locally using SQLite on OPFS, supports background syncing via Service Workers, and integrates with Google Sheets for cloud accessibility—all without the need for backend servers or database hosting.",
+ 
+      "shortDescription":"A powerful, offline-first finance app that gives users full control over their data. It integrates AI insights, local storage, and Google Sheets sync for seamless expense tracking and budget management. Perfect for individuals, families, and businesses—without hidden costs or restrictions."  ,
+      "technologies": [
+    "React",
+    "WebAssembly OPFS",
+    "PWA",
+    "SQLite",
+    "Google Sheets API",
+    "Google Apps Script",
+    "AI integration",
+    "TypeScript",
+    "NodeJS",
+    "React Icons",
+    "TailwindCSS",
+    "React Router",
+    "Vite",
+    "rechart",
+    "Service Worker"
+  ],
+  "features": [
+    {
+      "name": "Offline-First Experience",
+      "description": "Access and manage finances anytime, even without an internet connection."
+    },
+    {
+      "name": "Local Storage with SQLite",
+      "description": "Ensures seamless and secure offline data access using WebAssembly OPFS."
+    },
+    {
+      "name": "Google Sheets Sync",
+      "description": "Allows users to own, share, and collaborate on financial data using Google Sheets."
+    },
+    {
+      "name": "AI-Powered Insights",
+      "description": "Provides personalized financial insights and recommendations using Local LLM, DeepSeek, and OpenAI APIs."
+    },
+    {
+      "name": "No Hosting Costs",
+      "description": "Deployed as a static web app, eliminating backend expenses and reducing maintenance overhead."
+    },
+    {
+      "name": "Multi-User Collaboration",
+      "description": "Ideal for families, teams, or small businesses to manage shared finances efficiently."
+    },
+    {
+      "name": "Fully Responsive Design",
+      "description": "Optimized for desktops, tablets, and mobile devices for a seamless user experience."
+    }
+  ],
+  "repository":null,
+  "demo":"https://personal-finances.coderduo.com",
+  "assets":[ {
+    "path": "zahra/projects/PFPWA/dashboard.png",
+    "alt": "Personal Finances"
+  },
+  {
+    "path": "zahra/projects/PFPWA/dashboard2.png",
+    "alt": "Personal Finances Dashboard (2)"
+  },
+  {
+    "path": "zahra/projects/PFPWA/dashboard.png",
+    "alt": "Personal Finances Dashboard (1)"
+  }, {
+    "path": "zahra/projects/PFPWA/expenses.png",
+    "alt": "Personal Finances Expenses"
+  }, {
+    "path": "zahra/projects/PFPWA/budgets.png",
+    "alt": "Personal Finances Budgets"
+  }, {
+    "path": "zahra/projects/PFPWA/debts.png",
+    "alt": "Personal Finances Debts"
+  }, {
+    "path": "zahra/projects/PFPWA/addDebt.png",
+    "alt": "Personal Finances Add Debt"
+  }, {
+    "path": "zahra/projects/PFPWA/addExpense.png",
+    "alt": "Personal Finances Add Expense"
+  }, {
+    "path": "zahra/projects/PFPWA/addPayment.png",
+    "alt": "Personal Finances Add Payment"
+  }, {
+    "path": "zahra/projects/PFPWA/contacts.png",
+    "alt": "Personal Finances Contact"
+  }, {
+    "path": "zahra/projects/PFPWA/addContact.png",
+    "alt": "Personal Finances Add Contact"
+  }, {
+    "path": "zahra/projects/PFPWA/categories.png",
+    "alt": "Personal Finances Categories"
+  }, {
+    "path": "zahra/projects/PFPWA/settings1.png",
+    "alt": "Personal Finances Settings (1)"
+  }, {
+    "path": "zahra/projects/PFPWA/settings2.png",
+    "alt": "Personal Finances Settings (2)"
+  },
+  {
+    "path": "zahra/projects/PFPWA/settings.png",
+    "alt": "Personal Finances Settings"
+  },
+  {
+    "path": "zahra/projects/PFPWA/debts2.png",
+    "alt": "Personal Finances Debt (2)"
+  },
+  {
+    "path": "zahra/projects/PFPWA/settings3.png",
+    "alt": "Personal Finances Settings (3)"
+  },
+  {
+    "path": "zahra/projects/PFPWA/addBudget.png",
+    "alt": "Personal Finances Add Budget"
+  },
+  {
+    "path": "zahra/projects/PFPWA/chat.png",
+    "alt": "Personal Finances AI Chat"
+  },{
+    "path": "zahra/projects/PFPWA/drawer.png",
+    "alt": "Personal Finances Drawer"
+  }
+
+],
+  "image":"zahra/projects/PFPWA/dashboard.png",
+"disclaimer":null
+
+
+    },
+    {
       "title": "Jawadi Finances",
       "description": "A full-stack financial management application tailored to our family's needs. Demonstrated proficiency in building scalable, user-centric applications with a focus on data privacy and security. By centralizing all monthly transactions, we gained complete visibility into our spending habits, enabling data-driven decisions and optimized budgeting. This resulted in a substantial 25% increase in monthly savings. Key features include collaborative budgeting, spending analysis, customizable spending limits, and a user-friendly dashboard with interactive graphs for visualizing monthly and yearly expenses.",
       "shortDescription": "A family finance app to help us track our spending and create budgets. It's been a game-changer, boosting our savings by 25%!",
@@ -172,7 +301,7 @@
         }
       ],
       "repository": null,
-      "demo": "https://personal-finances.coderduo.com/",
+      "demo": "",
       "image": "zahra/projects/jawadi-finances-dashboard-1.jpg",
       "technologies": [
         "React",
@@ -183,8 +312,11 @@
         "HTML",
         "CSS",
         "ChakraUI",
-        "PostgreSQL"
+        "PostgreSQL",
+        "React Router",
+        "chartJS"
       ],
+      "disclaimer":"This app is no longer available as it is currently not hosted.",
       "assets": [
         {
           "path": "zahra/projects/jawadi-finances-dashboard-1.jpg",
@@ -261,6 +393,8 @@
       "repository": null,
       "demo": "https://hdr-data.coderduo.com",
       "image": "zahra/projects/hdr.jpg",
+
+      "disclaimer":"This app is not working properly because the backend is not currently hosted.",
       "technologies": [
         "HTML",
         "CSS",
@@ -380,7 +514,7 @@
       "repository": null,
       "demo": "https://eilia-tour-czatjvjid-zhashimis-projects.vercel.app",
       "image": "zahra/projects/EiliaTour.jpg",
-      "technologies": ["HTML", "CSS", "Javascript", "React"],
+      "technologies": ["HTML", "CSS", "Javascript", "React","Webpack"],
       "assets": [
         { "path": "zahra/projects/EiliaTour.jpg", "alt": "Eilia Tour" },
         {
@@ -488,6 +622,7 @@
           "description": "Delivers fast and accurate calculations."
         }
       ],
+      "disclaimer":"This app is no longer available as it is currently not hosted.",
       "repository": null,
       "demo": null,
       "image": "zahra/projects/calculator.jpg",
